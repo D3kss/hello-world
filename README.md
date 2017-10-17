@@ -1,4 +1,4 @@
-# Hello-world world of Coders
+Hello-world of Coders
 Just getting to know all about Git.
 Hi All.
 I am new to Git and trying to know my way around.
